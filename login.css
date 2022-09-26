@@ -13,21 +13,21 @@
 
 .caixa-formulario {
     background-color: #e5e5e5;
-    padding: 20px 100px; 
+    padding: 50px 100px; 
     border-radius: 10px; 
     display: flex; 
     flex-direction: column; 
-    align-items: center; 
+    align-items: center;
     justify-content: center;
 }
 
 .caixa-formulario h2 {
     color: palevioletred;
-    margin-bottom: 10px; 
+    margin-bottom: 20px; 
 }
 
 .campo {
-    display: flex; 
+    display: flex;
     flex-direction: column; 
     align-items: flex-start; 
     justify-content: flex-start;
@@ -48,16 +48,16 @@
 
 .caixa-formulario button {
     margin-top: 20px; 
-    width: 120px; 
-    color: #fff;  
-    background-color: #e6005a;
-    padding: 10px 20px;
-    font-weight: bold;
+    width: 120px;
+    color: #fff; 
+    background-color: #e6005a; 
+    padding: 10px 20px; 
+    font-weight: bold; 
     border: none; 
-    border-radius: 5px;
-    cursor: pointer;
+    border-radius: 5px; 
+    cursor: pointer; 
 }
 
 .caixa-formulario button:hover{
-    opacity: 0.8;
+    opacity: 0.8; 
 }
